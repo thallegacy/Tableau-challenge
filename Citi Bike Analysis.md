@@ -26,7 +26,7 @@ Let's take a look at the trips over time to see if there are significant pattern
 
 
 
-![](D:\lynel\Documents\GitHub Repositories\Tableau-challenge\Images\Percent Difference.png)
+![](Images/Percent Difference.png)
 
 
 
@@ -38,7 +38,7 @@ The proportion of customers changed with an increase in short-term customers to 
 
  From a gender perspective, males took more trips than females and those that chose not to identify over time. In 2020, there was a more consistent increase in trips over time than in 2019. 
 
-![](D:\lynel\Documents\GitHub Repositories\Tableau-challenge\Images\Trip Demographic.png)
+![](Images/Trip Demographic.png)
 
 ### Performance Demographics Analysis
 
@@ -50,7 +50,7 @@ Similar to the trip metrics, the ridership within the 35-44-year-old age range h
 
 From a gender perspective, the performances are similar. 
 
-![](D:\lynel\Documents\GitHub Repositories\Tableau-challenge\Images\Performance Demographic.png)
+![](Images/Performance Demographic.png)
 
 ### Station Analysis
 
@@ -62,8 +62,8 @@ While most stations did repeat, you will notice that some of the station names d
 
 One other thing to notice is the top places to start and end a journey is disproportionate to the bottom places to start and end a journey. 
 
-![](D:\lynel\Documents\GitHub Repositories\Tableau-challenge\Images\Overall Map.png)
+![](Images/Overall Map.png)
 
-![](D:\lynel\Documents\GitHub Repositories\Tableau-challenge\Images\Top 10 Stations.png)
+![](Images/Top 10 Stations.png)
 
-![](D:\lynel\Documents\GitHub Repositories\Tableau-challenge\Images\Bottom 10 Stations.png)
+![](Images/Bottom 10 Stations.png)
